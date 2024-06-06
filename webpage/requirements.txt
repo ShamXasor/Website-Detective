@@ -107,16 +107,12 @@ certifi==2024.2.2
 charset-normalizer==3.3.2
 idna==3.7
 mysql-connector-python==8.0.28
-Pillow==9.0.0
 protobuf==4.25.3
 pywinpty==2.0.13
 requests==2.26.0
 smtplib==3.4.0
-streamlit==1.0.0
-streamlit-lottie==1.0.0
 validators==0.18.2
 Werkzeug==3.0.3
 wheel==0.43.0
 widgetsnbextension==4.0.10
 yarg==0.1.9
-mysql-connector-python
