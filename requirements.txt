@@ -1,0 +1,5 @@
+mysql-connector-python~=8.4.0
+requests~=2.32.3
+streamlit~=1.35.0
+validators~=0.28.3
+pillow~=10.3.0
